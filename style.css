@@ -1,0 +1,38 @@
+body{
+	background-color: #dfe3ee;
+	margin:0;
+}
+.header{
+		/*border: 1px solid black;*/
+		background-color: #3b5998;
+		width: auto;
+		height: 100px;
+		margin: o;
+		font-color:white;
+
+	}
+		img{
+			width: 55%;
+			height: auto;
+			float: left;
+		}
+		.element{
+			/*border: 1px solid red;*/
+			margin: 0;
+			padding: 12px;
+		}
+		.content{
+			/*border: 1px solid red;*/
+			margin: 0px;
+			padding: 0px;
+			
+		}
+		img{
+			width: 55%;
+			height: auto;
+		}
+
+		.form{
+			margin: 5px;
+			padding: 5px;
+
